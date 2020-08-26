@@ -1,4 +1,4 @@
-# segunda-lista
+# segunda-lista (Arrays)
 Segunda lista de exercicios c#
 
 1-Leia dois arrays A e B com 15 elementos. Construir um array C, onde cada elemento de C
